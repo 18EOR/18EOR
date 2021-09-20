@@ -1,6 +1,6 @@
 - 👋 Hello welcome to my github, I’m Evan O'Rourke
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning learning back end web technologies!
+- 💻 I am a front end web developer 
+- � I’m currently learning learning back end web technologie
 - 📫 You can reach me at theevanorourke@gmail.com
 
 <!---
